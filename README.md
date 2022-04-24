@@ -1,3 +1,3 @@
-# Status for [Nextpost.tech](https://nextpost.tech) REST API's
+# Status for [TikTok REST API](https://nextpost.tech/downloads/tiktok-rest-api/)
 
-This repository contains the open-source uptime monitor and status page for [Nextpost.tech](https://nextpost.tech), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [TikTok REST API](https://nextpost.tech/downloads/tiktok-rest-api/) created by [Nextpost.tech](https://nextpost.tech), powered on [Upptime](https://github.com/upptime/upptime).
