@@ -1,8 +1,3 @@
 # Status for [Nextpost.tech](https://nextpost.tech) REST API's
 
-<!--start: description-->
-
-Uptime monitor and status page, powered entirely by GitHub Actions, Issues, and Pages. 
-It's made on [Upptime](https://upptime.js.org).
-
-<!--end: description-->
+This repository contains the open-source uptime monitor and status page for [Nextpost.tech](https://nextpost.tech), powered by [Upptime](https://github.com/upptime/upptime).
