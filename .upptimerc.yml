@@ -1,5 +1,5 @@
 owner: nextpost-tech
-repo: upptime
+repo: tiktok-api-status
 
 sites:
   - name: Google
@@ -12,15 +12,15 @@ sites:
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  cname: status.nextpost.tech
+  cname: tiktok-status.nextpost.tech
   logoUrl: https://nextpost.tech/wp-content/uploads/2022/04/nextpost-new-logo-black.png
-  name: Nextpost.tech Status
-  introTitle: "**Nextpost.tech Status** is the uptime monitor and status page"
-  introMessage: Our status page uses **real-time** data from our REST API's servers.
+  name: TikTok REST API Status
+  introTitle: "**TikTok REST API Status** is the uptime monitor and status page"
+  introMessage: Our status page uses **real-time** data from our Nextpost.tech TikTok REST API server.
   navbar:
     - title: Status
       href: /
-    - title: Nextpost.tech
-      href: https://nextpost.tech
+    - title: TikTok REST API
+      href: https://nextpost.tech/downloads/tiktok-rest-api/
     - title: GitHub
-      href: https://github.com/$OWNER
+      href: https://github.com/$OWNER/
