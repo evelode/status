@@ -12,7 +12,7 @@ status-website:
   cname: tiktok.nextpost.tech
   logoUrl: https://nextpost.tech/wp-content/uploads/2022/04/nextpost-new-logo-black.png
   name: TikTok REST API Status
-  introTitle: **TikTok REST API Status**
+  introTitle: TikTok REST API Status
   introMessage: Our status page uses **real-time** data from our Nextpost.tech TikTok REST API server. Try our [Trial license plan](https://nextpost.tech/downloads/tiktok-rest-api/) and test all API endpoints before buying a license.
   navbar:
     - title: Status
