@@ -1,20 +1,22 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 66,
-    "timeDay": 66,
-    "timeWeek": 66,
-    "timeMonth": 66,
-    "timeYear": 66,
-    "dailyMinutesDown": {}
+    "name": "/getNoWatermarkUrl",
+    "url": "https://nextpost.tech/tiktok-api/getNoWatermarkUrl?video_url=https://www.tiktok.com/@iamcardib/video/6986776740685171974&license_key=API_KEY",
+    "icon": "https://favicons.githubusercontent.com/nextpost.tech",
+    "slug": "get-no-watermark-url",
+    "status": "down",
+    "uptime": "58.40%",
+    "uptimeDay": "58.40%",
+    "uptimeWeek": "58.40%",
+    "uptimeMonth": "58.40%",
+    "uptimeYear": "58.40%",
+    "time": 1598,
+    "timeDay": 1598,
+    "timeWeek": 1598,
+    "timeMonth": 1598,
+    "timeYear": 1598,
+    "dailyMinutesDown": {
+      "2022-04-24": 0
+    }
   }
 ]
