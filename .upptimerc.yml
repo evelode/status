@@ -2,8 +2,11 @@ owner: nextpost-tech
 repo: tiktok-api-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: /getNoWatermarkUrl
+    url: https://nextpost.tech/tiktok-api/getNoWatermarkUrl?video_url=https://www.tiktok.com/@iamcardib/video/6986776740685171974&license_key=API_KEY
+    method: POST
+    maxResponseTime: 60000
+    
 
 status-website:
   cname: tiktok.nextpost.tech
