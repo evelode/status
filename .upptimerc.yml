@@ -4,19 +4,13 @@ repo: tiktok-api-status
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  cname: tiktok-status.nextpost.tech
+  cname: tiktok.nextpost.tech
   logoUrl: https://nextpost.tech/wp-content/uploads/2022/04/nextpost-new-logo-black.png
   name: TikTok REST API Status
   introTitle: "**TikTok REST API Status** is the uptime monitor and status page"
-  introMessage: Our status page uses **real-time** data from our Nextpost.tech TikTok REST API server.
+  introMessage: Our status page uses **real-time** data from our Nextpost.tech TikTok REST API server. Try our [Trial license plan](https://nextpost.tech/downloads/tiktok-rest-api/) and test all API endpoints before buying a license.
   navbar:
     - title: Status
       href: /
