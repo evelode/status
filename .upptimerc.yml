@@ -1,43 +1,28 @@
 owner: nextpost-tech
-repo: tiktok-api-status
+repo: status
 
 sites:
-  - name: /getNoWatermarkUrl 
-    url: https://nextpost.tech/tiktok-api/getNoWatermarkUrl?video_url=https://www.tiktok.com/@iamcardib/video/6986776740685171974&license_key=$API_KEY
+  - name: Nextpost.tech
+    url: https://nextpost.tech/
+  - name: REST API
+    url: https://nextpost.tech/graftype-api/?action_type=now&license_key=$API_KEY
     method: GET
     maxResponseTime: 30000
-  - name: /getNoWatermarkUrlByID
-    url: https://nextpost.tech/tiktok-api/getNoWatermarkUrl?video_url=https://www.tiktok.com/@iamcardib/video/6986776740685171974&license_key=$API_KEY
-    method: GET
-    maxResponseTime: 30000
-  - name: /getVideoByID
+  - name: TikTok REST API
     url: https://nextpost.tech/tiktok-api/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY
     method: GET
     maxResponseTime: 30000
-  - name: /getVideoByUrl
-    url: https://nextpost.tech/tiktok-api/getVideoByUrl?video_url=https://www.tiktok.com/@iamcardib/video/6986776740685171974&license_key=$API_KEY
-    method: GET
-    maxResponseTime: 30000
-  - name: /getCommentsByUrl
-    url: https://nextpost.tech/tiktok-api/getCommentsByUrl?video_url=https://www.tiktok.com/@iamcardib/video/6986776740685171974&license_key=$API_KEY&count=5
-    method: GET
-    maxResponseTime: 30000
-  - name: /getCommentsByID
-    url: https://nextpost.tech/tiktok-api/getCommentsByID?video_id=6986776740685171974&license_key=$API_KEY&count=5
-    method: GET
-    maxResponseTime: 30000
-    
 
 status-website:
-  cname: tiktok.nextpost.tech
+  cname: status.nextpost.tech
   logoUrl: https://nextpost.tech/wp-content/uploads/2022/04/nextpost-new-logo-black.png
-  name: TikTok REST API Status
-  introTitle: TikTok REST API Status
-  introMessage: Our status page uses **real-time** data from our Nextpost.tech TikTok REST API server. Try our [Trial license plan](https://nextpost.tech/downloads/tiktok-rest-api/) and test all API endpoints before buying a license.
+  name: Nextpost.tech Status
+  introTitle: Nextpost.tech Status
+  introMessage: Our status page uses **real-time** data from our Nextpost.tech servers.
   navbar:
     - title: Status
       href: /
-    - title: TikTok REST API
-      href: https://nextpost.tech/downloads/tiktok-rest-api/
+    - title: Nextpost.tech
+      href: https://nextpost.tech/
     - title: GitHub
       href: https://github.com/$OWNER/
