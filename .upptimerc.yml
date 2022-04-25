@@ -1,6 +1,9 @@
 owner: nextpost-tech
 repo: status
 
+assignees:
+  -  sergeykomlev
+
 sites:
   - name: Nextpost.tech
     url: https://nextpost.tech
@@ -14,11 +17,13 @@ sites:
     maxResponseTime: 30000
 
 status-website:
+  theme: dark
   cname: status.nextpost.tech
   logoUrl: https://nextpost.tech/wp-content/uploads/2022/04/nextpost-new-logo-black.png
+  favicon: https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png
   name: Nextpost.tech Status
-  introTitle: Nextpost.tech Status
-  introMessage: Welcone to status page uses **real-time** data from our [Nextpost.tech](https://nextpost.tech) servers.
+  introTitle: "**Nextpost.tech Status** is the uptime monitor and status page"
+  introMessage: Welcome to our status page which uses **real-time** data from our [Nextpost.tech](https://nextpost.tech) platfrom servers.
   navbar:
-    - title: Status
+    - title: Main
       href: /
