@@ -1,7 +1,7 @@
 [
   {
     "name": "Nextpost.tech",
-    "url": "https://nextpost.tech/",
+    "url": "https://nextpost.tech",
     "icon": "https://favicons.githubusercontent.com/nextpost.tech",
     "slug": "nextpost-tech",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1981,
-    "timeDay": 1981,
-    "timeWeek": 1981,
-    "timeMonth": 1981,
-    "timeYear": 1981,
+    "time": 1776,
+    "timeDay": 1776,
+    "timeWeek": 1776,
+    "timeMonth": 1776,
+    "timeYear": 1776,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 385,
-    "timeWeek": 385,
-    "timeMonth": 385,
-    "timeYear": 385,
+    "time": 383,
+    "timeDay": 383,
+    "timeWeek": 383,
+    "timeMonth": 383,
+    "timeYear": 383,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 381,
-    "timeWeek": 381,
-    "timeMonth": 381,
-    "timeYear": 381,
+    "time": 385,
+    "timeDay": 385,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   }
 ]
