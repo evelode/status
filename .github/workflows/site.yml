@@ -36,5 +36,5 @@ jobs:
         with:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
-          user_name: "Nextpost.tech"
+          user_name: "nextpost-tech"
           user_email: "contact@nextpost.tech"
