@@ -8,7 +8,7 @@ sites:
   - name: Nextpost.tech
     url: https://nextpost.tech
     maxResponseTime: 30000
-  - name: REST API
+  - name: Nextpost.tech REST API
     url: https://nextpost.tech/graftype-api/?action_type=now&token=$API_KEY
     method: GET
     maxResponseTime: 30000
