@@ -22,8 +22,8 @@ sites:
     url: https://nextpost.tech/tiktok-api/getCommentsByUrl?video_url=https://www.tiktok.com/@iamcardib/video/6986776740685171974&license_key=$API_KEY&count=5
     method: GET
     maxResponseTime: 30000
-  - name: /getCommentsById
-    url: https://nextpost.tech/tiktok-api/getCommentsById?video_id=6986776740685171974&license_key=$API_KEY&count=5
+  - name: /getCommentsByID
+    url: https://nextpost.tech/tiktok-api/getCommentsByID?video_id=6986776740685171974&license_key=$API_KEY&count=5
     method: GET
     maxResponseTime: 30000
     
