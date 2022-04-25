@@ -30,3 +30,7 @@ status-website:
   navbar:
     - title: Main Page
       href: /
+      
+commitMessages:
+  commitAuthorName: "Nextpost.tech Bot"
+  commitAuthorEmail: "contact@nextpost.tech"
