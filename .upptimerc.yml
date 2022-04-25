@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: Nextpost.tech
-    url: https://nextpost.tech/
+    url: https://nextpost.tech
   - name: REST API
     url: https://nextpost.tech/graftype-api/?action_type=now&token=$API_KEY
     method: GET
@@ -18,11 +18,7 @@ status-website:
   logoUrl: https://nextpost.tech/wp-content/uploads/2022/04/nextpost-new-logo-black.png
   name: Nextpost.tech Status
   introTitle: Nextpost.tech Status
-  introMessage: Our status page uses **real-time** data from our Nextpost.tech servers.
+  introMessage: Our status page uses **real-time** data from our [Nextpost.tech](https://nextpost.tech) servers.
   navbar:
     - title: Status
       href: /
-    - title: Nextpost.tech
-      href: https://nextpost.tech/
-    - title: GitHub
-      href: https://github.com/$OWNER/
