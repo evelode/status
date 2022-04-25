@@ -23,7 +23,7 @@ status-website:
   favicon: https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png
   name: Nextpost.tech Status
   introTitle: "**Nextpost.tech Status** is the uptime monitor and status page"
-  introMessage: Welcome to our status page which uses **real-time** data from our [Nextpost.tech](https://nextpost.tech) platfrom servers.
+  introMessage: Welcome to our status page which uses **real-time** data from our [Nextpost.tech](https://nextpost.tech) servers.
   navbar:
     - title: Main Page
       href: /
