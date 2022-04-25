@@ -2,14 +2,30 @@ owner: nextpost-tech
 repo: tiktok-api-status
 
 sites:
-  - name: /getNoWatermarkUrl - Get non watermarked video url
+  - name: /getNoWatermarkUrl 
     url: https://nextpost.tech/tiktok-api/getNoWatermarkUrl?video_url=https://www.tiktok.com/@iamcardib/video/6986776740685171974&license_key=$API_KEY
-    method: POST
-    maxResponseTime: 60000
-  - name: /getNoWatermarkUrlByID - Get non watermarked video url by video ID
+    method: GET
+    maxResponseTime: 30000
+  - name: /getNoWatermarkUrlByID
     url: https://nextpost.tech/tiktok-api/getNoWatermarkUrl?video_url=https://www.tiktok.com/@iamcardib/video/6986776740685171974&license_key=$API_KEY
-    method: POST
-    maxResponseTime: 60000
+    method: GET
+    maxResponseTime: 30000
+  - name: /getVideoByID
+    url: https://nextpost.tech/tiktok-api/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY
+    method: GET
+    maxResponseTime: 30000
+  - name: /getVideoByUrl
+    url: https://nextpost.tech/tiktok-api/getVideoByUrl?video_url=https://www.tiktok.com/@iamcardib/video/6986776740685171974&license_key=$API_KEY
+    method: GET
+    maxResponseTime: 30000
+  - name: /getCommentsByUrl
+    url: https://nextpost.tech/tiktok-api/getCommentsByUrl?video_url=https://www.tiktok.com/@iamcardib/video/6986776740685171974&license_key=$API_KEY&count=5
+    method: GET
+    maxResponseTime: 30000
+  - name: /getCommentsById
+    url: https://nextpost.tech/tiktok-api/getCommentsById?video_id=6986776740685171974&license_key=$API_KEY&count=5
+    method: GET
+    maxResponseTime: 30000
     
 
 status-website:
