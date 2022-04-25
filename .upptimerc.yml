@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://nextpost.tech/wp-content/uploads/2022/04/nextpost-new-logo-black.png
   name: Nextpost.tech Status
   introTitle: Nextpost.tech Status
-  introMessage: Our status page uses **real-time** data from our [Nextpost.tech](https://nextpost.tech) servers.
+  introMessage: Welcone to status page uses **real-time** data from our [Nextpost.tech](https://nextpost.tech) servers.
   navbar:
     - title: Status
       href: /
