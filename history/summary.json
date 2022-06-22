@@ -5,19 +5,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.95%",
-    "time": 2318,
-    "timeDay": 1873,
-    "timeWeek": 1629,
-    "timeMonth": 2388,
-    "timeYear": 2318,
-    "dailyMinutesDown": {
-      "2022-06-21": 44
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2316,
+    "timeDay": 2100,
+    "timeWeek": 1665,
+    "timeMonth": 2390,
+    "timeYear": 2316,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nextpost.tech REST API",
@@ -25,19 +23,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech-rest-api",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 406,
-    "timeDay": 293,
-    "timeWeek": 360,
-    "timeMonth": 395,
+    "timeDay": 291,
+    "timeWeek": 359,
+    "timeMonth": 396,
     "timeYear": 406,
-    "dailyMinutesDown": {
-      "2022-06-21": 44
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TikTok REST API",
@@ -45,18 +41,16 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 470,
-    "timeDay": 538,
-    "timeWeek": 533,
-    "timeMonth": 504,
+    "timeDay": 539,
+    "timeWeek": 534,
+    "timeMonth": 505,
     "timeYear": 470,
-    "dailyMinutesDown": {
-      "2022-06-21": 44
-    }
+    "dailyMinutesDown": {}
   }
 ]
