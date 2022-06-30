@@ -4,53 +4,59 @@
     "url": "https://nextpost.tech",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2203,
-    "timeDay": 1124,
-    "timeWeek": 1425,
-    "timeMonth": 1661,
-    "timeYear": 2203,
-    "dailyMinutesDown": {}
+    "time": 2183,
+    "timeDay": 942,
+    "timeWeek": 1326,
+    "timeMonth": 1625,
+    "timeYear": 2183,
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   },
   {
     "name": "Nextpost.tech REST API",
     "url": "https://nextpost.tech/graftype-api/?action_type=now&token=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 256,
-    "timeWeek": 369,
-    "timeMonth": 398,
-    "timeYear": 401,
-    "dailyMinutesDown": {}
+    "time": 397,
+    "timeDay": 215,
+    "timeWeek": 346,
+    "timeMonth": 390,
+    "timeYear": 397,
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   },
   {
     "name": "TikTok REST API",
     "url": "https://nextpost.tech/tiktok-api/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 481,
-    "timeDay": 253,
-    "timeWeek": 551,
-    "timeMonth": 503,
-    "timeYear": 481,
-    "dailyMinutesDown": {}
+    "time": 477,
+    "timeDay": 213,
+    "timeWeek": 517,
+    "timeMonth": 492,
+    "timeYear": 477,
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   }
 ]
