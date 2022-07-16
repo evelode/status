@@ -13,7 +13,7 @@
     "time": 2094,
     "timeDay": 2030,
     "timeWeek": 2412,
-    "timeMonth": 1610,
+    "timeMonth": 1637,
     "timeYear": 2094,
     "dailyMinutesDown": {}
   },
@@ -22,35 +22,39 @@
     "url": "https://nextpost.tech/graftype-api/?action_type=now&token=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 397,
     "timeDay": 408,
     "timeWeek": 582,
-    "timeMonth": 374,
+    "timeMonth": 379,
     "timeYear": 397,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-16": 0
+    }
   },
   {
     "name": "TikTok REST API",
     "url": "https://nextpost.tech/tiktok-api/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 387,
-    "timeWeek": 641,
-    "timeMonth": 544,
-    "timeYear": 494,
-    "dailyMinutesDown": {}
+    "time": 492,
+    "timeDay": 323,
+    "timeWeek": 593,
+    "timeMonth": 551,
+    "timeYear": 492,
+    "dailyMinutesDown": {
+      "2022-07-16": 0
+    }
   }
 ]
