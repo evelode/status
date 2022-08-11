@@ -5,19 +5,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "93.94%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2104,
     "timeDay": 8092,
     "timeWeek": 3209,
     "timeMonth": 2192,
     "timeYear": 2104,
-    "dailyMinutesDown": {
-      "2022-08-10": 87
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nextpost.tech REST API",
@@ -25,20 +23,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech-rest-api",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 991,
     "timeDay": 6343,
     "timeWeek": 3753,
     "timeMonth": 2449,
     "timeYear": 991,
-    "dailyMinutesDown": {
-      "2022-08-11": 1,
-      "2022-08-10": 87
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TikTok REST API",
@@ -46,18 +41,16 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 872,
     "timeDay": 6273,
     "timeWeek": 2034,
     "timeMonth": 1832,
     "timeYear": 872,
-    "dailyMinutesDown": {
-      "2022-08-10": 54
-    }
+    "dailyMinutesDown": {}
   }
 ]
