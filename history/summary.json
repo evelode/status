@@ -10,11 +10,11 @@
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.94%",
-    "time": 2086,
-    "timeDay": 5810,
-    "timeWeek": 2951,
-    "timeMonth": 2118,
-    "timeYear": 2086,
+    "time": 2104,
+    "timeDay": 8092,
+    "timeWeek": 3209,
+    "timeMonth": 2192,
+    "timeYear": 2104,
     "dailyMinutesDown": {
       "2022-08-10": 87
     }
@@ -24,18 +24,19 @@
     "url": "https://nextpost.tech/graftype-api/?action_type=now&token=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "93.95%",
-    "uptimeWeek": "99.14%",
+    "uptimeDay": "93.88%",
+    "uptimeWeek": "99.13%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.94%",
-    "time": 979,
-    "timeDay": 5713,
-    "timeWeek": 3581,
-    "timeMonth": 2398,
-    "timeYear": 979,
+    "time": 991,
+    "timeDay": 6343,
+    "timeWeek": 3753,
+    "timeMonth": 2449,
+    "timeYear": 991,
     "dailyMinutesDown": {
+      "2022-08-11": 1,
       "2022-08-10": 87
     }
   },
@@ -50,11 +51,11 @@
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.97%",
-    "time": 850,
-    "timeDay": 4890,
-    "timeWeek": 1684,
-    "timeMonth": 1748,
-    "timeYear": 850,
+    "time": 872,
+    "timeDay": 6273,
+    "timeWeek": 2034,
+    "timeMonth": 1832,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2022-08-10": 54
     }
