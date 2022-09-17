@@ -4,18 +4,20 @@
     "url": "https://nextpost.tech",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2108,
-    "timeDay": 1404,
-    "timeWeek": 1491,
-    "timeMonth": 2042,
-    "timeYear": 2108,
-    "dailyMinutesDown": {}
+    "time": 2215,
+    "timeDay": 13770,
+    "timeWeek": 4572,
+    "timeMonth": 2693,
+    "timeYear": 2215,
+    "dailyMinutesDown": {
+      "2022-09-17": 0
+    }
   },
   {
     "name": "Nextpost.tech REST API",
