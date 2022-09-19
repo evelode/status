@@ -24,7 +24,7 @@
     "slug": "nextpost-tech-rest-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,9 +33,7 @@
     "timeWeek": 1316,
     "timeMonth": 620,
     "timeYear": 903,
-    "dailyMinutesDown": {
-      "2022-09-18": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TikTok REST API",
@@ -53,8 +51,6 @@
     "timeWeek": 392,
     "timeMonth": 520,
     "timeYear": 803,
-    "dailyMinutesDown": {
-      "2022-09-18": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
