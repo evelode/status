@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2222,
-    "timeDay": 1932,
-    "timeWeek": 3418,
-    "timeMonth": 2724,
-    "timeYear": 2222,
+    "time": 2219,
+    "timeDay": 2252,
+    "timeWeek": 3411,
+    "timeMonth": 2720,
+    "timeYear": 2219,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech-rest-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
-    "time": 832,
-    "timeDay": 352,
-    "timeWeek": 365,
-    "timeMonth": 547,
-    "timeYear": 832,
-    "dailyMinutesDown": {
-      "2022-10-11": 31
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 830,
+    "timeDay": 330,
+    "timeWeek": 363,
+    "timeMonth": 546,
+    "timeYear": 830,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TikTok REST API",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 809,
-    "timeDay": 2043,
-    "timeWeek": 1263,
+    "time": 807,
+    "timeDay": 371,
+    "timeWeek": 1262,
     "timeMonth": 747,
-    "timeYear": 809,
+    "timeYear": 807,
     "dailyMinutesDown": {}
   }
 ]
