@@ -4,9 +4,9 @@
     "url": "https://nextpost.tech",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,42 +15,48 @@
     "timeWeek": 1753,
     "timeMonth": 2166,
     "timeYear": 2201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-18": 0
+    }
   },
   {
     "name": "Nextpost.tech REST API",
     "url": "https://nextpost.tech/graftype-api/?action_type=now&token=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 820,
-    "timeDay": 366,
-    "timeWeek": 425,
-    "timeMonth": 559,
-    "timeYear": 820,
-    "dailyMinutesDown": {}
+    "time": 835,
+    "timeDay": 2493,
+    "timeWeek": 806,
+    "timeMonth": 652,
+    "timeYear": 835,
+    "dailyMinutesDown": {
+      "2022-10-18": 0
+    }
   },
   {
     "name": "TikTok REST API",
     "url": "https://nextpost.tech/tiktok-api/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 371,
-    "timeWeek": 442,
-    "timeMonth": 736,
-    "timeYear": 796,
-    "dailyMinutesDown": {}
+    "time": 794,
+    "timeDay": 265,
+    "timeWeek": 413,
+    "timeMonth": 723,
+    "timeYear": 794,
+    "dailyMinutesDown": {
+      "2022-10-18": 0
+    }
   }
 ]
