@@ -18,6 +18,7 @@ sites:
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
+      - 502
       - 521
   - name: TikTok REST API
     url: https://nextpost.tech/tiktok-api/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY
@@ -26,6 +27,7 @@ sites:
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
+      - 502
       - 521
 
 status-website:
