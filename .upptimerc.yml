@@ -38,7 +38,7 @@ status-website:
   introTitle: "**Nextpost.tech Status** is the uptime monitor and status page"
   introMessage: Our status page uses a **real-time** data from [Nextpost.tech](https://nextpost.tech) servers.
   navbar:
-    - title: Main Page
+    - title: Homepage
       href: /
       
 commitMessages:
