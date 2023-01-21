@@ -4,19 +4,19 @@
     "url": "https://nextpost.tech",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.62%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
-    "time": 2119,
-    "timeDay": 7122,
-    "timeWeek": 2708,
-    "timeMonth": 2219,
-    "timeYear": 2119,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "94.99%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.98%",
+    "time": 2118,
+    "timeDay": 5333,
+    "timeWeek": 2621,
+    "timeMonth": 2208,
+    "timeYear": 2118,
     "dailyMinutesDown": {
-      "2023-01-21": 34
+      "2023-01-21": 72
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://nextpost.tech/graftype-api/?action_type=now&token=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech-rest-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 715,
-    "timeDay": 526,
-    "timeWeek": 448,
-    "timeMonth": 395,
-    "timeYear": 715,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
+    "time": 716,
+    "timeDay": 637,
+    "timeWeek": 497,
+    "timeMonth": 411,
+    "timeYear": 716,
     "dailyMinutesDown": {
-      "2023-01-21": 22
+      "2023-01-21": 60
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://nextpost.tech/tiktok-api/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 841,
-    "timeDay": 1024,
-    "timeWeek": 700,
-    "timeMonth": 584,
-    "timeYear": 841,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.98%",
+    "time": 842,
+    "timeDay": 1084,
+    "timeWeek": 747,
+    "timeMonth": 601,
+    "timeYear": 842,
     "dailyMinutesDown": {
-      "2023-01-21": 21
+      "2023-01-21": 59
     }
   }
 ]
