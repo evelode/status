@@ -4,27 +4,29 @@
     "url": "https://nextpost.tech",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2116,
-    "timeDay": 1201,
-    "timeWeek": 1580,
-    "timeMonth": 2599,
-    "timeYear": 2116,
-    "dailyMinutesDown": {}
+    "time": 2134,
+    "timeDay": 6255,
+    "timeWeek": 2390,
+    "timeMonth": 2761,
+    "timeYear": 2134,
+    "dailyMinutesDown": {
+      "2023-04-22": 1
+    }
   },
   {
     "name": "Nextpost.tech REST API",
     "url": "https://nextpost.tech/graftype-api/?action_type=now&token=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,24 +35,28 @@
     "timeWeek": 3366,
     "timeMonth": 1319,
     "timeYear": 730,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-22": 0
+    }
   },
   {
     "name": "TikTok REST API",
     "url": "https://nextpost.tech/tiktok-api/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 951,
-    "timeDay": 1317,
-    "timeWeek": 1174,
-    "timeMonth": 1542,
-    "timeYear": 951,
-    "dailyMinutesDown": {}
+    "time": 950,
+    "timeDay": 775,
+    "timeWeek": 1080,
+    "timeMonth": 1510,
+    "timeYear": 950,
+    "dailyMinutesDown": {
+      "2023-04-22": 0
+    }
   }
 ]
