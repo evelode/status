@@ -4,11 +4,11 @@
     "url": "https://nextpost.tech",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2134,
     "timeDay": 4923,
@@ -16,7 +16,7 @@
     "timeMonth": 2752,
     "timeYear": 2134,
     "dailyMinutesDown": {
-      "2023-04-22": 12
+      "2023-04-22": 3
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://nextpost.tech/graftype-api/?action_type=now&token=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 730,
     "timeDay": 490,
@@ -36,7 +36,7 @@
     "timeMonth": 1297,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2023-04-22": 11
+      "2023-04-22": 2
     }
   },
   {
@@ -44,11 +44,11 @@
     "url": "https://nextpost.tech/tiktok-api/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 950,
     "timeDay": 919,
@@ -56,7 +56,7 @@
     "timeMonth": 1502,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2023-04-22": 11
+      "2023-04-22": 0
     }
   }
 ]
