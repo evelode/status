@@ -40,17 +40,19 @@
     "url": "https://nextpost.tech/tiktok-api/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 954,
-    "timeDay": 1512,
-    "timeWeek": 1150,
-    "timeMonth": 1476,
-    "timeYear": 977,
-    "dailyMinutesDown": {}
+    "time": 984,
+    "timeDay": 8500,
+    "timeWeek": 2253,
+    "timeMonth": 1810,
+    "timeYear": 1008,
+    "dailyMinutesDown": {
+      "2023-04-26": 0
+    }
   }
 ]
