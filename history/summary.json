@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2129,
-    "timeDay": 1560,
-    "timeWeek": 2323,
-    "timeMonth": 2708,
-    "timeYear": 2131,
+    "time": 2128,
+    "timeDay": 1704,
+    "timeWeek": 2540,
+    "timeMonth": 2725,
+    "timeYear": 2130,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 728,
-    "timeDay": 625,
-    "timeWeek": 2804,
-    "timeMonth": 1283,
+    "time": 727,
+    "timeDay": 497,
+    "timeWeek": 509,
+    "timeMonth": 1284,
     "timeYear": 737,
     "dailyMinutesDown": {}
   },
@@ -42,17 +42,15 @@
     "slug": "tik-tok-rest-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 985,
-    "timeDay": 6136,
-    "timeWeek": 2192,
-    "timeMonth": 1800,
-    "timeYear": 1009,
-    "dailyMinutesDown": {
-      "2023-04-26": 12
-    }
+    "time": 986,
+    "timeDay": 6110,
+    "timeWeek": 2429,
+    "timeMonth": 1804,
+    "timeYear": 1011,
+    "dailyMinutesDown": {}
   }
 ]
