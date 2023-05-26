@@ -4,18 +4,19 @@
     "url": "https://nextpost.tech",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 2159,
-    "timeDay": 2007,
-    "timeWeek": 2012,
-    "timeMonth": 2580,
-    "timeYear": 2102,
+    "time": 2160,
+    "timeDay": 2865,
+    "timeWeek": 2134,
+    "timeMonth": 2616,
+    "timeYear": 2104,
     "dailyMinutesDown": {
+      "2023-05-26": 0,
       "2023-05-10": 96
     }
   },
@@ -31,10 +32,10 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 731,
-    "timeDay": 1075,
-    "timeWeek": 753,
-    "timeMonth": 779,
-    "timeYear": 762,
+    "timeDay": 703,
+    "timeWeek": 747,
+    "timeMonth": 782,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2023-05-10": 94
     }
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1010,
-    "timeDay": 1778,
-    "timeWeek": 1502,
-    "timeMonth": 1877,
-    "timeYear": 1072,
+    "time": 1011,
+    "timeDay": 1444,
+    "timeWeek": 1461,
+    "timeMonth": 1875,
+    "timeYear": 1075,
     "dailyMinutesDown": {}
   }
 ]
