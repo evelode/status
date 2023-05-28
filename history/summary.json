@@ -6,15 +6,15 @@
     "slug": "nextpost-tech",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.03%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.96%",
     "time": 2160,
-    "timeDay": 2270,
-    "timeWeek": 2223,
-    "timeMonth": 2622,
-    "timeYear": 2105,
+    "timeDay": 1858,
+    "timeWeek": 2180,
+    "timeMonth": 2615,
+    "timeYear": 2104,
     "dailyMinutesDown": {
       "2023-05-26": 99,
       "2023-05-10": 96
@@ -32,10 +32,10 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 731,
-    "timeDay": 711,
-    "timeWeek": 749,
-    "timeMonth": 789,
-    "timeYear": 763,
+    "timeDay": 737,
+    "timeWeek": 767,
+    "timeMonth": 794,
+    "timeYear": 764,
     "dailyMinutesDown": {
       "2023-05-10": 94
     }
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1012,
-    "timeDay": 1519,
-    "timeWeek": 1501,
+    "timeDay": 1282,
+    "timeWeek": 1495,
     "timeMonth": 1440,
-    "timeYear": 1077,
+    "timeYear": 1079,
     "dailyMinutesDown": {}
   }
 ]
