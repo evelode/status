@@ -1,7 +1,7 @@
 url: https://nextpost.tech/graftype-api/?action_type=now&token=$API_KEY
-status: up
-code: 200
-responseTime: 856
-lastUpdated: 2023-06-29T23:08:15.594Z
+status: down
+code: 500
+responseTime: 213
+lastUpdated: 2023-06-30T15:41:21.699Z
 startTime: Mon Apr 25 2022 16:08:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
