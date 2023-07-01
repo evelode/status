@@ -10,11 +10,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.89%",
-    "time": 2225,
-    "timeDay": 9902,
-    "timeWeek": 5925,
-    "timeMonth": 3035,
-    "timeYear": 2250,
+    "time": 2228,
+    "timeDay": 3942,
+    "timeWeek": 6091,
+    "timeMonth": 3092,
+    "timeYear": 2254,
     "dailyMinutesDown": {
       "2023-06-26": 22,
       "2023-06-18": 123,
@@ -31,17 +31,16 @@
     "slug": "nextpost-tech-rest-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 758,
-    "timeDay": 552,
-    "timeWeek": 846,
-    "timeMonth": 1109,
-    "timeYear": 847,
+    "timeDay": 630,
+    "timeWeek": 845,
+    "timeMonth": 1132,
+    "timeYear": 849,
     "dailyMinutesDown": {
-      "2023-06-30": 12,
       "2023-06-18": 23,
       "2023-05-10": 94
     }
@@ -53,17 +52,15 @@
     "slug": "tik-tok-rest-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1050,
-    "timeDay": 1041,
-    "timeWeek": 1452,
-    "timeMonth": 1627,
-    "timeYear": 1192,
-    "dailyMinutesDown": {
-      "2023-06-30": 12
-    }
+    "time": 1051,
+    "timeDay": 1097,
+    "timeWeek": 1483,
+    "timeMonth": 1623,
+    "timeYear": 1195,
+    "dailyMinutesDown": {}
   }
 ]
