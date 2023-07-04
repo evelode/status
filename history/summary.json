@@ -5,25 +5,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.89%",
-    "time": 2238,
-    "timeDay": 3543,
-    "timeWeek": 3876,
-    "timeMonth": 3201,
-    "timeYear": 2274,
-    "dailyMinutesDown": {
-      "2023-07-03": 12,
-      "2023-06-26": 22,
-      "2023-06-18": 123,
-      "2023-06-06": 118,
-      "2023-06-03": 113,
-      "2023-05-26": 99,
-      "2023-05-10": 96
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2239,
+    "timeDay": 3574,
+    "timeWeek": 3887,
+    "timeMonth": 3206,
+    "timeYear": 2276,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nextpost.tech REST API",
@@ -31,20 +23,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech-rest-api",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 758,
-    "timeDay": 780,
-    "timeWeek": 775,
-    "timeMonth": 1120,
-    "timeYear": 853,
-    "dailyMinutesDown": {
-      "2023-06-18": 23,
-      "2023-05-10": 94
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 759,
+    "timeDay": 982,
+    "timeWeek": 734,
+    "timeMonth": 1129,
+    "timeYear": 854,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TikTok REST API",
@@ -57,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1053,
-    "timeDay": 1392,
-    "timeWeek": 1435,
-    "timeMonth": 1606,
-    "timeYear": 1204,
+    "time": 1054,
+    "timeDay": 1831,
+    "timeWeek": 1403,
+    "timeMonth": 1615,
+    "timeYear": 1207,
     "dailyMinutesDown": {}
   }
 ]
