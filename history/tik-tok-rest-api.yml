@@ -1,7 +1,7 @@
 url: https://nextpost.tech/tiktok-api/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY
-status: down
-code: 400
-responseTime: 651
-lastUpdated: 2023-07-11T09:58:26.264Z
+status: up
+code: 200
+responseTime: 1414
+lastUpdated: 2023-07-11T10:24:43.328Z
 startTime: Mon Apr 25 2022 00:21:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
