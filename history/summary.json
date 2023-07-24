@@ -11,10 +11,10 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 2296,
-    "timeDay": 14515,
-    "timeWeek": 4305,
-    "timeMonth": 4012,
-    "timeYear": 2357,
+    "timeDay": 2150,
+    "timeWeek": 4359,
+    "timeMonth": 4009,
+    "timeYear": 2358,
     "dailyMinutesDown": {
       "2023-07-21": 102
     }
@@ -26,14 +26,14 @@
     "slug": "nextpost-tech-rest-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.51%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.42%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.97%",
     "time": 804,
-    "timeDay": 728,
-    "timeWeek": 1855,
-    "timeMonth": 1260,
+    "timeDay": 637,
+    "timeWeek": 1849,
+    "timeMonth": 1248,
     "timeYear": 908,
     "dailyMinutesDown": {
       "2023-07-22": 21,
@@ -51,11 +51,11 @@
     "uptimeWeek": "98.64%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
-    "time": 1104,
-    "timeDay": 1461,
-    "timeWeek": 1342,
-    "timeMonth": 1518,
-    "timeYear": 1179,
+    "time": 1106,
+    "timeDay": 1238,
+    "timeWeek": 1317,
+    "timeMonth": 1514,
+    "timeYear": 1181,
     "dailyMinutesDown": {
       "2023-07-21": 138
     }
