@@ -5,19 +5,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2283,
     "timeDay": 1864,
     "timeWeek": 1968,
     "timeMonth": 2946,
     "timeYear": 2368,
-    "dailyMinutesDown": {
-      "2023-07-21": 102
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nextpost.tech REST API",
@@ -25,21 +23,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech-rest-api",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.97%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 834,
     "timeDay": 2897,
     "timeWeek": 1676,
     "timeMonth": 1444,
     "timeYear": 832,
-    "dailyMinutesDown": {
-      "2023-08-02": 0,
-      "2023-07-22": 21,
-      "2023-07-21": 138
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TikTok REST API",
@@ -47,19 +41,16 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.97%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1153,
     "timeDay": 1302,
     "timeWeek": 2224,
     "timeMonth": 1693,
     "timeYear": 1224,
-    "dailyMinutesDown": {
-      "2023-08-02": 0,
-      "2023-07-21": 138
-    }
+    "dailyMinutesDown": {}
   }
 ]
