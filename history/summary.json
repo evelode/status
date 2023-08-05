@@ -6,18 +6,16 @@
     "slug": "nextpost-tech",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2284,
-    "timeDay": 2191,
-    "timeWeek": 1868,
-    "timeMonth": 2851,
-    "timeYear": 2371,
-    "dailyMinutesDown": {
-      "2023-08-03": 22
-    }
+    "timeDay": 1993,
+    "timeWeek": 1849,
+    "timeMonth": 2779,
+    "timeYear": 2373,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nextpost.tech REST API",
@@ -26,18 +24,16 @@
     "slug": "nextpost-tech-rest-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 881,
-    "timeDay": 8989,
-    "timeWeek": 3323,
-    "timeMonth": 1917,
+    "timeDay": 628,
+    "timeWeek": 3324,
+    "timeMonth": 1911,
     "timeYear": 889,
-    "dailyMinutesDown": {
-      "2023-08-03": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TikTok REST API",
@@ -46,17 +42,15 @@
     "slug": "tik-tok-rest-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1162,
-    "timeDay": 1454,
-    "timeWeek": 1807,
-    "timeMonth": 1694,
-    "timeYear": 1232,
-    "dailyMinutesDown": {
-      "2023-08-03": 21
-    }
+    "time": 1165,
+    "timeDay": 2040,
+    "timeWeek": 1805,
+    "timeMonth": 1701,
+    "timeYear": 1235,
+    "dailyMinutesDown": {}
   }
 ]
