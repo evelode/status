@@ -20,8 +20,8 @@ sites:
       - 200
       - 502
       - 521
-  - name: TikTok REST API
-    url: https://nextpost.tech/tiktok-api/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY
+  - name: TikTok REST API (server in San Francisco)
+    url: https://tiktok.nextpost.tech/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
     maxResponseTime: 30000
