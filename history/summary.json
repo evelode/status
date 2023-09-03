@@ -7,17 +7,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2268,
-    "timeDay": 2319,
-    "timeWeek": 2433,
-    "timeMonth": 2169,
-    "timeYear": 2327,
-    "dailyMinutesDown": {
-      "2023-08-31": 16
-    }
+    "time": 2269,
+    "timeDay": 2116,
+    "timeWeek": 2402,
+    "timeMonth": 2165,
+    "timeYear": 2328,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nextpost.tech REST API",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 922,
-    "timeDay": 1820,
-    "timeWeek": 1246,
-    "timeMonth": 1695,
-    "timeYear": 837,
+    "time": 923,
+    "timeDay": 988,
+    "timeWeek": 1247,
+    "timeMonth": 1065,
+    "timeYear": 839,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1295,
-    "timeDay": 233,
-    "timeWeek": 1333,
-    "timeMonth": 1295,
-    "timeYear": 1295,
+    "time": 1148,
+    "timeDay": 268,
+    "timeWeek": 1074,
+    "timeMonth": 1148,
+    "timeYear": 1148,
     "dailyMinutesDown": {}
   }
 ]
