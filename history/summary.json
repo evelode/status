@@ -6,16 +6,18 @@
     "slug": "nextpost-tech",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2269,
+    "time": 2270,
     "timeDay": 2116,
     "timeWeek": 2402,
     "timeMonth": 2165,
-    "timeYear": 2328,
-    "dailyMinutesDown": {}
+    "timeYear": 2329,
+    "dailyMinutesDown": {
+      "2023-09-04": 0
+    }
   },
   {
     "name": "Nextpost.tech REST API",
