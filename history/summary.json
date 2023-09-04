@@ -6,17 +6,17 @@
     "slug": "nextpost-tech",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2270,
-    "timeDay": 2116,
-    "timeWeek": 2402,
-    "timeMonth": 2165,
-    "timeYear": 2329,
+    "time": 2273,
+    "timeDay": 2939,
+    "timeWeek": 2558,
+    "timeMonth": 2220,
+    "timeYear": 2333,
     "dailyMinutesDown": {
-      "2023-09-04": 0
+      "2023-09-04": 11
     }
   },
   {
