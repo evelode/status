@@ -20,10 +20,9 @@ sites:
       - 200
       - 502
       - 521
-      - 0
       - 403
   - name: TikTok REST API (SFO3)
-    url: https://tiktok.nextpost.tech/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY&cache_timeout=3600
+    url: https://tiktok.nextpost.tech/getVideoByID?video_id=7106855913906081070&license_key=$API_KEY&cache_timeout=3600
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
     maxResponseTime: 30000
@@ -31,7 +30,6 @@ sites:
       - 200
       - 502
       - 521
-      - 0
       - 403
 
 status-website:
