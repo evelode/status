@@ -4,18 +4,19 @@
     "url": "https://nextpost.tech",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.58%",
-    "uptimeWeek": "99.65%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 2473,
-    "timeDay": 6457,
+    "time": 2475,
+    "timeDay": 1889,
     "timeWeek": 7913,
-    "timeMonth": 4413,
+    "timeMonth": 4431,
     "timeYear": 2613,
     "dailyMinutesDown": {
+      "2023-09-22": 2,
       "2023-09-21": 35
     }
   },
@@ -24,18 +25,20 @@
     "url": "https://nextpost.tech/graftype-api/?action_type=now&token=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 959,
+    "time": 960,
     "timeDay": 776,
     "timeWeek": 841,
     "timeMonth": 1115,
     "timeYear": 855,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-22": 0
+    }
   },
   {
     "name": "TikTok REST API (SFO3)",
@@ -43,18 +46,16 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api-sfo-3",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2019,
     "timeDay": 6020,
     "timeWeek": 4250,
     "timeMonth": 2019,
     "timeYear": 2019,
-    "dailyMinutesDown": {
-      "2023-09-22": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
