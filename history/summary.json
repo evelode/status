@@ -14,7 +14,7 @@
     "timeDay": 6457,
     "timeWeek": 7913,
     "timeMonth": 4413,
-    "timeYear": 2611,
+    "timeYear": 2613,
     "dailyMinutesDown": {
       "2023-09-21": 35
     }
@@ -34,7 +34,7 @@
     "timeDay": 776,
     "timeWeek": 841,
     "timeMonth": 1115,
-    "timeYear": 854,
+    "timeYear": 855,
     "dailyMinutesDown": {}
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://tiktok.nextpost.tech/getVideoByID?video_id=7106855913906081070&license_key=$API_KEY&cache_timeout=0",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api-sfo-3",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2041,
-    "timeDay": 8419,
-    "timeWeek": 4628,
-    "timeMonth": 2041,
-    "timeYear": 2041,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2019,
+    "timeDay": 6020,
+    "timeWeek": 4250,
+    "timeMonth": 2019,
+    "timeYear": 2019,
     "dailyMinutesDown": {
-      "2023-09-22": 0
+      "2023-09-22": 12
     }
   }
 ]
