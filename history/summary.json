@@ -4,18 +4,19 @@
     "url": "https://nextpost.tech",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 2490,
-    "timeDay": 2514,
+    "time": 2494,
+    "timeDay": 2622,
     "timeWeek": 2340,
     "timeMonth": 4618,
     "timeYear": 2624,
     "dailyMinutesDown": {
+      "2023-09-30": 2,
       "2023-09-29": 94
     }
   },
@@ -24,18 +25,20 @@
     "url": "https://nextpost.tech/graftype-api/?action_type=now&token=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 968,
+    "time": 967,
     "timeDay": 1007,
     "timeWeek": 747,
     "timeMonth": 960,
     "timeYear": 861,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-30": 0
+    }
   },
   {
     "name": "TikTok REST API (SFO3)",
@@ -43,18 +46,16 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api-sfo-3",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2781,
     "timeDay": 7339,
     "timeWeek": 5638,
     "timeMonth": 3025,
     "timeYear": 2781,
-    "dailyMinutesDown": {
-      "2023-09-30": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
