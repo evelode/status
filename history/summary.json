@@ -4,9 +4,9 @@
     "url": "https://nextpost.tech",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "nextpost-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 3281,
     "timeMonth": 3265,
     "timeYear": 2713,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-24": 0
+    }
   },
   {
     "name": "Nextpost.tech REST API",
