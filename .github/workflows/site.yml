@@ -44,5 +44,5 @@ jobs:
           github_token: ${{ secrets.GH_PAT || github.token }}
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
-          user_name: "Nextpost.tech Bot"
-          user_email: "contact@nextpost.tech"
+          user_name: "Evelode"
+          user_email: "contact@evelode.com"
