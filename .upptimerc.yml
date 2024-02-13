@@ -1,19 +1,19 @@
-owner: nextpost-tech
+owner: evelode
 repo: status
 
 assignees:
   -  sergeykomlev
 
 sites:
-  - name: Nextpost.tech
-    url: https://nextpost.tech
-    icon: https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png
+  - name: Evelode
+    url: https://evelode.com
+    icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
-  - name: Nextpost.tech REST API
-    url: https://nextpost.tech/graftype-api/?action_type=now&token=$API_KEY
-    icon: https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png
+  - name: Evelode REST API
+    url: https://evelode.com/graftype-api/?action_type=now&token=$API_KEY
+    icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
     expectedStatusCodes:
@@ -22,8 +22,8 @@ sites:
       - 521
       - 403
   - name: TikTok REST API (SFO3)
-    url: https://tiktok.nextpost.tech/getVideoByID?video_id=7106855913906081070&license_key=$API_KEY&cache_timeout=0
-    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    url: https://tiktok.evelode.com/getVideoByID?video_id=7106855913906081070&license_key=$API_KEY&cache_timeout=0
+    icon: https://evelode.com/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
     maxResponseTime: 30000
     expectedStatusCodes:
@@ -33,16 +33,16 @@ sites:
       - 403
 
 status-website:
-  cname: status.nextpost.tech
-  logoUrl: https://nextpost.tech/wp-content/uploads/2022/04/nextpost-new-logo-black.png
-  favicon: https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png
-  name: Nextpost.tech Status
-  introTitle: "**Nextpost.tech Status** is the uptime monitor and status page"
-  introMessage: Our status page uses a **real-time** data from [Nextpost.tech](https://nextpost.tech) servers.
+  cname: status.evelode.com
+  logoUrl: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
+  favicon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
+  name: Evelode Status
+  introTitle: "**Evelode Status** is the uptime monitor and status page"
+  introMessage: Our status page uses a **real-time** data from [Evelode](https://evelode.com) servers.
   navbar:
     - title: Homepage
       href: /
       
 commitMessages:
-  commitAuthorName: "Nextpost.tech Bot"
-  commitAuthorEmail: "contact@nextpost.tech"
+  commitAuthorName: "Evelode"
+  commitAuthorEmail: "contact@evelode.com"
