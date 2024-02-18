@@ -4,19 +4,19 @@
     "url": "https://evelode.com",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "evelode",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1458,
-    "timeDay": 1401,
-    "timeWeek": 1458,
-    "timeMonth": 1458,
-    "timeYear": 1458,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1492,
+    "timeDay": 1559,
+    "timeWeek": 1492,
+    "timeMonth": 1492,
+    "timeYear": 1492,
     "dailyMinutesDown": {
-      "2024-02-18": 0
+      "2024-02-18": 13
     }
   },
   {
