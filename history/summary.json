@@ -4,19 +4,19 @@
     "url": "https://evelode.com",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "evelode",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 2683,
-    "timeDay": 4946,
-    "timeWeek": 2996,
-    "timeMonth": 2683,
-    "timeYear": 2683,
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 2626,
+    "timeDay": 3755,
+    "timeWeek": 2972,
+    "timeMonth": 2626,
+    "timeYear": 2626,
     "dailyMinutesDown": {
-      "2024-02-20": 20
+      "2024-02-20": 22
     }
   },
   {
@@ -24,18 +24,20 @@
     "url": "https://evelode.com/graftype-api/?action_type=now&token=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "evelode-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 631,
-    "timeDay": 447,
-    "timeWeek": 504,
-    "timeMonth": 631,
-    "timeYear": 631,
-    "dailyMinutesDown": {}
+    "time": 605,
+    "timeDay": 375,
+    "timeWeek": 468,
+    "timeMonth": 605,
+    "timeYear": 605,
+    "dailyMinutesDown": {
+      "2024-02-20": 0
+    }
   },
   {
     "name": "TikTok REST API (SFO3)",
@@ -48,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2142,
-    "timeDay": 1531,
-    "timeWeek": 1348,
-    "timeMonth": 1388,
-    "timeYear": 2142,
+    "time": 2137,
+    "timeDay": 1139,
+    "timeWeek": 1275,
+    "timeMonth": 1373,
+    "timeYear": 2137,
     "dailyMinutesDown": {}
   }
 ]
