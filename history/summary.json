@@ -4,19 +4,19 @@
     "url": "https://evelode.com",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "evelode",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 3196,
-    "timeDay": 5592,
-    "timeWeek": 3820,
-    "timeMonth": 3196,
-    "timeYear": 3196,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 3132,
+    "timeDay": 5538,
+    "timeWeek": 3701,
+    "timeMonth": 3132,
+    "timeYear": 3132,
     "dailyMinutesDown": {
-      "2024-02-21": 26
+      "2024-02-21": 35
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://evelode.com/graftype-api/?action_type=now&token=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "evelode-rest-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 391,
-    "timeWeek": 423,
-    "timeMonth": 569,
-    "timeYear": 569,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 556,
+    "timeDay": 410,
+    "timeWeek": 421,
+    "timeMonth": 556,
+    "timeYear": 556,
     "dailyMinutesDown": {
-      "2024-02-21": 0
+      "2024-02-21": 9
     }
   },
   {
