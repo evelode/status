@@ -16,4 +16,4 @@ This repository contains the open-source uptime monitor and status page for [Eve
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status.nextpost.tech)
+[**Visit our status website →**](https://status.evelode.com)
