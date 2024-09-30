@@ -40,7 +40,7 @@
     "url": "https://tiktok.evelode.com/getVideoByID?video_id=7106855913906081070&license_key=$API_KEY&cache_timeout=0",
     "icon": "https://evelode.com/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api-sfo-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
@@ -52,6 +52,7 @@
     "timeMonth": 1934,
     "timeYear": 1595,
     "dailyMinutesDown": {
+      "2024-09-30": 0,
       "2024-09-25": 16,
       "2024-09-10": 28
     }
