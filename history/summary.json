@@ -6,15 +6,15 @@
     "slug": "evelode",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.72%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 2537,
-    "timeDay": 1415,
-    "timeWeek": 2516,
-    "timeMonth": 3218,
-    "timeYear": 2537,
+    "time": 2533,
+    "timeDay": 1322,
+    "timeWeek": 2317,
+    "timeMonth": 3122,
+    "timeYear": 2533,
     "dailyMinutesDown": {
       "2024-10-12": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 460,
-    "timeWeek": 476,
-    "timeMonth": 562,
-    "timeYear": 580,
+    "time": 579,
+    "timeDay": 343,
+    "timeWeek": 452,
+    "timeMonth": 552,
+    "timeYear": 579,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 1723,
-    "timeDay": 1624,
-    "timeWeek": 2103,
-    "timeMonth": 2052,
-    "timeYear": 1527,
+    "time": 1722,
+    "timeDay": 1328,
+    "timeWeek": 2070,
+    "timeMonth": 2046,
+    "timeYear": 1490,
     "dailyMinutesDown": {
       "2024-10-04": 32
     }
