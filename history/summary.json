@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2242,
-    "timeDay": 2017,
-    "timeWeek": 1955,
-    "timeMonth": 2042,
-    "timeYear": 2240,
+    "time": 2246,
+    "timeDay": 1992,
+    "timeWeek": 1950,
+    "timeMonth": 1987,
+    "timeYear": 2241,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 560,
-    "timeDay": 474,
-    "timeWeek": 463,
-    "timeMonth": 480,
+    "timeDay": 484,
+    "timeWeek": 466,
+    "timeMonth": 478,
     "timeYear": 581,
     "dailyMinutesDown": {}
   },
@@ -41,18 +41,16 @@
     "icon": "https://evelode.com/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api-sfo-3",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "94.34%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.98%",
-    "time": 1520,
-    "timeDay": 1474,
-    "timeWeek": 1601,
-    "timeMonth": 1844,
-    "timeYear": 1621,
-    "dailyMinutesDown": {
-      "2025-05-05": 82
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1521,
+    "timeDay": 1490,
+    "timeWeek": 1612,
+    "timeMonth": 1816,
+    "timeYear": 1624,
+    "dailyMinutesDown": {}
   }
 ]
