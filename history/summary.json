@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2242,
-    "timeDay": 1683,
-    "timeWeek": 1836,
-    "timeMonth": 1972,
+    "time": 2243,
+    "timeDay": 2020,
+    "timeWeek": 1835,
+    "timeMonth": 1973,
     "timeYear": 2239,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 558,
-    "timeDay": 415,
-    "timeWeek": 456,
-    "timeMonth": 470,
+    "timeDay": 473,
+    "timeWeek": 451,
+    "timeMonth": 469,
     "timeYear": 579,
     "dailyMinutesDown": {}
   },
@@ -42,17 +42,15 @@
     "slug": "tik-tok-rest-api-sfo-3",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1522,
-    "timeDay": 1769,
-    "timeWeek": 1598,
+    "timeDay": 1789,
+    "timeWeek": 1567,
     "timeMonth": 1809,
     "timeYear": 1631,
-    "dailyMinutesDown": {
-      "2025-05-13": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
