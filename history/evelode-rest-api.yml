@@ -1,7 +1,7 @@
 url: https://evelode.com/graftype-api/?action_type=now&token=$API_KEY
 status: up
 code: 403
-responseTime: 494
-lastUpdated: 2025-06-02T23:10:34.898Z
+responseTime: 500
+lastUpdated: 2025-06-03T23:10:32.303Z
 startTime: 2024-02-13T03:38:43.914Z
 generator: Upptime <https://github.com/upptime/upptime>
