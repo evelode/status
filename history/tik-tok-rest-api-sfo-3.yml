@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getVideoByID?video_id=7106855913906081070&license_key=$API_KEY&cache_timeout=0
 status: up
 code: 200
-responseTime: 1661
-lastUpdated: 2025-06-22T23:10:41.439Z
+responseTime: 1578
+lastUpdated: 2025-06-23T23:08:57.542Z
 startTime: 2023-08-24T23:33:41.988Z
 generator: Upptime <https://github.com/upptime/upptime>
