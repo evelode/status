@@ -4,20 +4,18 @@
     "url": "https://evelode.com",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "evelode",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2114,
-    "timeDay": 1791,
-    "timeWeek": 1977,
-    "timeMonth": 1720,
-    "timeYear": 1839,
-    "dailyMinutesDown": {
-      "2025-10-23": 1
-    }
+    "time": 2113,
+    "timeDay": 1673,
+    "timeWeek": 1902,
+    "timeMonth": 1702,
+    "timeYear": 1837,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Evelode REST API",
