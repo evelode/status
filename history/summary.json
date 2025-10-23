@@ -4,9 +4,9 @@
     "url": "https://evelode.com",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "evelode",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.14%",
+    "uptimeDay": "98.09%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
@@ -16,7 +16,7 @@
     "timeMonth": 1710,
     "timeYear": 1839,
     "dailyMinutesDown": {
-      "2025-10-23": 27
+      "2025-10-23": 28
     }
   },
   {
