@@ -6,17 +6,17 @@
     "slug": "evelode",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "99.26%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
-    "time": 2115,
-    "timeDay": 1515,
-    "timeWeek": 1926,
-    "timeMonth": 1690,
-    "timeYear": 1838,
+    "time": 2116,
+    "timeDay": 2013,
+    "timeWeek": 2084,
+    "timeMonth": 1745,
+    "timeYear": 1842,
     "dailyMinutesDown": {
-      "2025-10-23": 75
+      "2025-10-23": 76
     }
   },
   {
