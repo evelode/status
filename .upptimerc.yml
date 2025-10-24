@@ -11,6 +11,7 @@ sites:
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
+      - 0
   - name: Evelode REST API
     url: https://evelode.com/graftype-api/?action_type=now&token=$API_KEY
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
