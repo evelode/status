@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 2111,
     "timeDay": 0,
-    "timeWeek": 1792,
-    "timeMonth": 1704,
+    "timeWeek": 1749,
+    "timeMonth": 1694,
     "timeYear": 1838,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,20 @@
     "url": "https://evelode.com/graftype-api/?action_type=now&token=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "evelode-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 605,
-    "timeDay": 12102,
-    "timeWeek": 3517,
-    "timeMonth": 1301,
-    "timeYear": 595,
-    "dailyMinutesDown": {}
+    "timeDay": 1048,
+    "timeWeek": 3581,
+    "timeMonth": 1318,
+    "timeYear": 596,
+    "dailyMinutesDown": {
+      "2025-10-26": 0
+    }
   },
   {
     "name": "TikTok REST API (SFO3)",
@@ -46,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1812,
-    "timeDay": 1553,
-    "timeWeek": 1739,
-    "timeMonth": 2065,
+    "time": 1814,
+    "timeDay": 1478,
+    "timeWeek": 1720,
+    "timeMonth": 2063,
     "timeYear": 1968,
     "dailyMinutesDown": {}
   }
