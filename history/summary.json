@@ -22,19 +22,19 @@
     "url": "https://evelode.com/graftype-api/?action_type=now&token=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "evelode-rest-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 605,
-    "timeDay": 1048,
-    "timeWeek": 3581,
-    "timeMonth": 1318,
+    "timeDay": 846,
+    "timeWeek": 3255,
+    "timeMonth": 1297,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2025-10-26": 0
+      "2025-10-26": 12
     }
   },
   {
