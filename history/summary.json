@@ -24,18 +24,16 @@
     "slug": "evelode-rest-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 605,
     "timeDay": 846,
     "timeWeek": 3255,
     "timeMonth": 1297,
     "timeYear": 596,
-    "dailyMinutesDown": {
-      "2025-10-26": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TikTok REST API (SFO3)",
