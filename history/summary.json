@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
-    "time": 1984,
-    "timeDay": 1545,
-    "timeWeek": 1161,
-    "timeMonth": 1262,
-    "timeYear": 1790,
+    "time": 1979,
+    "timeDay": 1248,
+    "timeWeek": 1255,
+    "timeMonth": 1270,
+    "timeYear": 1789,
     "dailyMinutesDown": {
       "2025-11-18": 87
     }
@@ -26,14 +26,14 @@
     "slug": "evelode-rest-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 600,
-    "timeDay": 484,
-    "timeWeek": 484,
-    "timeMonth": 552,
+    "timeDay": 585,
+    "timeWeek": 500,
+    "timeMonth": 554,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2025-12-03": 15,
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
-    "time": 1859,
-    "timeDay": 1773,
-    "timeWeek": 1881,
-    "timeMonth": 1785,
-    "timeYear": 1973,
+    "time": 1861,
+    "timeDay": 2087,
+    "timeWeek": 1938,
+    "timeMonth": 1805,
+    "timeYear": 1974,
     "dailyMinutesDown": {
       "2025-11-18": 173
     }
