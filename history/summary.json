@@ -5,19 +5,17 @@
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "evelode",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.98%",
-    "time": 1933,
-    "timeDay": 1542,
-    "timeWeek": 1184,
-    "timeMonth": 1208,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1928,
+    "timeDay": 1483,
+    "timeWeek": 1210,
+    "timeMonth": 1235,
     "timeYear": 1773,
-    "dailyMinutesDown": {
-      "2025-11-18": 87
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Evelode REST API",
@@ -25,20 +23,17 @@
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "evelode-rest-api",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.98%",
-    "time": 596,
-    "timeDay": 525,
-    "timeWeek": 487,
-    "timeMonth": 542,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 597,
+    "timeDay": 520,
+    "timeWeek": 478,
+    "timeMonth": 537,
     "timeYear": 595,
-    "dailyMinutesDown": {
-      "2025-12-03": 15,
-      "2025-11-18": 87
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TikTok REST API (SFO3)",
@@ -46,18 +41,16 @@
     "icon": "https://evelode.com/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api-sfo-3",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.97%",
-    "time": 1865,
-    "timeDay": 2093,
-    "timeWeek": 1907,
-    "timeMonth": 1811,
-    "timeYear": 1979,
-    "dailyMinutesDown": {
-      "2025-11-18": 173
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1866,
+    "timeDay": 1891,
+    "timeWeek": 1879,
+    "timeMonth": 1790,
+    "timeYear": 1980,
+    "dailyMinutesDown": {}
   }
 ]
