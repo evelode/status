@@ -14,7 +14,7 @@
     "timeDay": 1533,
     "timeWeek": 2061,
     "timeMonth": 1792,
-    "timeYear": 1754,
+    "timeYear": 1755,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 662,
     "timeWeek": 773,
     "timeMonth": 596,
-    "timeYear": 612,
+    "timeYear": 613,
     "dailyMinutesDown": {}
   },
   {
@@ -40,17 +40,19 @@
     "url": "https://tiktok.evelode.com/getVideoByID?video_id=7106855913906081070&license_key=$API_KEY&cache_timeout=0",
     "icon": "https://evelode.com/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-rest-api-sfo-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1966,
+    "time": 1967,
     "timeDay": 1274,
     "timeWeek": 2084,
     "timeMonth": 2170,
     "timeYear": 2068,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-12": 0
+    }
   }
 ]
