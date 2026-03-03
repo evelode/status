@@ -22,17 +22,29 @@ sites:
       - 502
       - 521
       - 403
-  - name: TikTok REST API (SFO3)
+  - name: TikTok Scraper API (SFO3)
     url: https://tiktok.evelode.com/getVideoByID?video_id=7106855913906081070&license_key=$API_KEY&cache_timeout=0
     icon: https://evelode.com/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
     maxResponseTime: 60000
+    delay: 900
     expectedStatusCodes:
       - 200
       - 502
       - 521
       - 403
-
+  - name: IG Scraper API (SFO3)
+    url: https://ig.mjcodebase.com/v1/media/by/id?id=3816481912765155592&license_key=IG_API_KEY
+    icon: https://evelode.com/wp-content/uploads/edd/2026/03/IG-Scraper-API-1000x750.jpg
+    method: GET
+    maxResponseTime: 60000
+    delay: 10800
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+      - 403
+    
 status-website:
   cname: status.evelode.com
   logoUrl: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
