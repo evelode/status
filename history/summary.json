@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1757,
-    "timeDay": 1549,
-    "timeWeek": 2050,
-    "timeMonth": 1967,
+    "time": 1758,
+    "timeDay": 2032,
+    "timeWeek": 2025,
+    "timeMonth": 1969,
     "timeYear": 1764,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 602,
-    "timeDay": 412,
-    "timeWeek": 811,
-    "timeMonth": 736,
-    "timeYear": 623,
+    "timeDay": 636,
+    "timeWeek": 819,
+    "timeMonth": 739,
+    "timeYear": 621,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2309,
-    "timeDay": 4649,
-    "timeWeek": 2309,
-    "timeMonth": 2309,
-    "timeYear": 2309,
+    "time": 2364,
+    "timeDay": 2695,
+    "timeWeek": 2364,
+    "timeMonth": 2364,
+    "timeYear": 2364,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,19 @@
     "url": "https://ig.mjcodebase.com/v1/media/by/id?id=3816481912765155592&license_key=$IG_API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/edd/2026/03/IG-Scraper-API-1000x750.jpg",
     "slug": "ig-scraper-api-sfo-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1546,
-    "timeDay": 737,
-    "timeWeek": 1546,
-    "timeMonth": 1546,
-    "timeYear": 1546,
-    "dailyMinutesDown": {}
+    "time": 1761,
+    "timeDay": 2407,
+    "timeWeek": 1761,
+    "timeMonth": 1761,
+    "timeYear": 1761,
+    "dailyMinutesDown": {
+      "2026-03-06": 0
+    }
   }
 ]
