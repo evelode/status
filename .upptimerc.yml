@@ -27,12 +27,14 @@ sites:
     icon: https://evelode.com/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
     maxResponseTime: 60000
-    delay: 900
+    delay: 21600
     expectedStatusCodes:
+      - 0
       - 200
       - 502
       - 521
       - 403
+      - 404
   - name: IG Scraper API (SFO3)
     url: https://ig.jsonscraper.com/v1/media/by/id?id=3816481912765155592&license_key=$IG_API_KEY
     icon: https://evelode.com/wp-content/uploads/edd/2026/03/IG-Scraper-API-1000x750.jpg
@@ -40,10 +42,12 @@ sites:
     maxResponseTime: 60000
     delay: 21600
     expectedStatusCodes:
+      - 0
       - 200
       - 502
       - 521
       - 403
+      - 404
     
 status-website:
   cname: status.evelode.com
