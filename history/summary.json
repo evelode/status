@@ -4,19 +4,19 @@
     "url": "https://evelode.com",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "evelode",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1764,
-    "timeDay": 677,
-    "timeWeek": 1379,
-    "timeMonth": 1775,
-    "timeYear": 1752,
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 1815,
+    "timeDay": 9129,
+    "timeWeek": 3845,
+    "timeMonth": 2468,
+    "timeYear": 1815,
     "dailyMinutesDown": {
-      "2026-04-05": 0
+      "2026-04-05": 32
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://tiktok.evelode.com/getVideoByID?video_id=7106855913906081070&license_key=$API_KEY&cache_timeout=0",
     "icon": "https://evelode.com/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-scraper-api-sfo-3",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "85.26%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.55%",
-    "time": 2737,
-    "timeDay": 6798,
-    "timeWeek": 3622,
-    "timeMonth": 2854,
-    "timeYear": 2737,
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "83.03%",
+    "uptimeWeek": "97.58%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.48%",
+    "time": 2971,
+    "timeDay": 8050,
+    "timeWeek": 4409,
+    "timeMonth": 3116,
+    "timeYear": 2971,
     "dailyMinutesDown": {
-      "2026-04-05": 212
+      "2026-04-05": 244
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://ig.jsonscraper.com/v1/media/by/id?id=3816481912765155592&license_key=$IG_API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/edd/2026/03/IG-Scraper-API-1000x750.jpg",
     "slug": "ig-scraper-api-sfo-3",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "85.33%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.55%",
-    "time": 2334,
-    "timeDay": 7804,
-    "timeWeek": 4044,
-    "timeMonth": 2419,
-    "timeYear": 2334,
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "83.08%",
+    "uptimeWeek": "97.58%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.48%",
+    "time": 2450,
+    "timeDay": 7707,
+    "timeWeek": 4317,
+    "timeMonth": 2548,
+    "timeYear": 2450,
     "dailyMinutesDown": {
-      "2026-04-05": 211
+      "2026-04-05": 243
     }
   }
 ]
