@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1813,
-    "timeDay": 9032,
+    "timeDay": 484,
     "timeWeek": 3702,
     "timeMonth": 2437,
     "timeYear": 1807,
@@ -22,10 +22,10 @@
     "url": "https://evelode.com/graftype-api/?action_type=now&token=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "evelode-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 612,
@@ -33,25 +33,29 @@
     "timeWeek": 728,
     "timeMonth": 752,
     "timeYear": 638,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-06": 1
+    }
   },
   {
     "name": "TikTok Scraper API (SFO3)",
     "url": "https://tiktok.evelode.com/getVideoByID?video_id=7106855913906081070&license_key=$API_KEY&cache_timeout=0",
     "icon": "https://evelode.com/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-scraper-api-sfo-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2933,
-    "timeDay": 6620,
-    "timeWeek": 4385,
-    "timeMonth": 3029,
-    "timeYear": 2933,
-    "dailyMinutesDown": {}
+    "time": 3093,
+    "timeDay": 5762,
+    "timeWeek": 4836,
+    "timeMonth": 3210,
+    "timeYear": 3093,
+    "dailyMinutesDown": {
+      "2026-04-06": 0
+    }
   },
   {
     "name": "IG Scraper API (SFO3)",
@@ -65,7 +69,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2439,
-    "timeDay": 4843,
+    "timeDay": 1942,
     "timeWeek": 4342,
     "timeMonth": 2580,
     "timeYear": 2439,
