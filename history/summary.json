@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1813,
-    "timeDay": 484,
-    "timeWeek": 3702,
-    "timeMonth": 2437,
-    "timeYear": 1807,
+    "time": 1810,
+    "timeDay": 692,
+    "timeWeek": 3545,
+    "timeMonth": 2432,
+    "timeYear": 1804,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "evelode-rest-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "94.33%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.98%",
-    "time": 615,
-    "timeDay": 1433,
-    "timeWeek": 872,
-    "timeMonth": 790,
-    "timeYear": 642,
-    "dailyMinutesDown": {
-      "2026-04-06": 82
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 616,
+    "timeDay": 1434,
+    "timeWeek": 876,
+    "timeMonth": 804,
+    "timeYear": 643,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TikTok Scraper API (SFO3)",
@@ -43,19 +41,17 @@
     "icon": "https://evelode.com/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-scraper-api-sfo-3",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "94.35%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.83%",
-    "time": 3143,
-    "timeDay": 5661,
-    "timeWeek": 4881,
-    "timeMonth": 3265,
-    "timeYear": 3143,
-    "dailyMinutesDown": {
-      "2026-04-06": 81
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3131,
+    "timeDay": 6091,
+    "timeWeek": 4956,
+    "timeMonth": 3309,
+    "timeYear": 3131,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IG Scraper API (SFO3)",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2439,
-    "timeDay": 1942,
-    "timeWeek": 4342,
-    "timeMonth": 2580,
-    "timeYear": 2439,
+    "time": 2438,
+    "timeDay": 2413,
+    "timeWeek": 4401,
+    "timeMonth": 2624,
+    "timeYear": 2438,
     "dailyMinutesDown": {}
   }
 ]
