@@ -58,17 +58,19 @@
     "url": "https://ig.jsonscraper.com/v1/media/by/id?id=3816481912765155592&license_key=$IG_API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/edd/2026/03/IG-Scraper-API-1000x750.jpg",
     "slug": "ig-scraper-api-sfo-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2453,
-    "timeDay": 1506,
-    "timeWeek": 2547,
-    "timeMonth": 2826,
-    "timeYear": 2453,
-    "dailyMinutesDown": {}
+    "time": 2868,
+    "timeDay": 12972,
+    "timeWeek": 5284,
+    "timeMonth": 3410,
+    "timeYear": 2868,
+    "dailyMinutesDown": {
+      "2026-04-14": 0
+    }
   }
 ]
