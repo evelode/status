@@ -22,20 +22,18 @@
     "url": "https://evelode.com/graftype-api/?action_type=now&token=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "evelode-rest-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 2304,
+    "time": 645,
+    "timeDay": 1989,
     "timeWeek": 1671,
-    "timeMonth": 1124,
-    "timeYear": 676,
-    "dailyMinutesDown": {
-      "2026-04-20": 0
-    }
+    "timeMonth": 1140,
+    "timeYear": 678,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TikTok Scraper API (SFO3)",
