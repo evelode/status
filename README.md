@@ -18,3 +18,6 @@ This repository contains the open-source uptime monitor and status page for [Eve
 <!--end: status pages-->
 
 [**Visit our status website →**](https://status.evelode.com)
+
+
+<!-- Security scan triggered at 2026-09-05 08:07:15 -->
