@@ -40,21 +40,18 @@
     "url": "https://tiktok.evelode.com/getVideoByID?video_id=7106855913906081070&license_key=$API_KEY&cache_timeout=0",
     "icon": "https://evelode.com/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-scraper-api-sfo-3",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "94.17%",
-    "uptimeWeek": "95.22%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "99.85%",
-    "time": 2836,
-    "timeDay": 579,
-    "timeWeek": 3214,
-    "timeMonth": 4512,
-    "timeYear": 2836,
-    "dailyMinutesDown": {
-      "2026-10-15": 398,
-      "2026-10-17": 84
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2845,
+    "timeDay": 2830,
+    "timeWeek": 3401,
+    "timeMonth": 4528,
+    "timeYear": 2845,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IG Scraper API (SFO3)",
