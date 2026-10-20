@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1463,
-    "timeDay": 1066,
-    "timeWeek": 1059,
-    "timeMonth": 939,
-    "timeYear": 1376,
+    "time": 1460,
+    "timeDay": 662,
+    "timeWeek": 1009,
+    "timeMonth": 927,
+    "timeYear": 1372,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 785,
-    "timeDay": 1236,
-    "timeWeek": 802,
-    "timeMonth": 832,
-    "timeYear": 852,
+    "timeDay": 695,
+    "timeWeek": 788,
+    "timeMonth": 823,
+    "timeYear": 853,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,20 @@
     "url": "https://tiktok.evelode.com/getVideoByID?video_id=7106855913906081070&license_key=$API_KEY&cache_timeout=0",
     "icon": "https://evelode.com/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "tik-tok-scraper-api-sfo-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "89.69%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.30%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.92%",
-    "time": 2829,
-    "timeDay": 2159,
-    "timeWeek": 2918,
-    "timeMonth": 4393,
-    "timeYear": 2829,
+    "time": 2833,
+    "timeDay": 3332,
+    "timeWeek": 2987,
+    "timeMonth": 3008,
+    "timeYear": 2833,
     "dailyMinutesDown": {
-      "2026-10-18": 272
+      "2026-10-18": 272,
+      "2026-10-20": 0
     }
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2486,
-    "timeDay": 3139,
-    "timeWeek": 3337,
-    "timeMonth": 2752,
-    "timeYear": 2486,
+    "time": 2492,
+    "timeDay": 3813,
+    "timeWeek": 3397,
+    "timeMonth": 2665,
+    "timeYear": 2492,
     "dailyMinutesDown": {}
   }
 ]
