@@ -2,6 +2,17 @@
 
 This repository contains the open-source uptime monitor and status page for [Evelode](https://evelode.com), powered by [Upptime](https://github.com/upptime/upptime).
 
+<!-- mcp-announcement:start -->
+<a href="https://jsonscraper.com/mcp?utm_source=github&utm_medium=readme&utm_campaign=evelode-status&utm_content=mcp_announcement#connect">
+  <picture>
+    <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="docs/mcp-announcement-mobile-dark.svg">
+    <source media="(max-width: 640px)" srcset="docs/mcp-announcement-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="docs/mcp-announcement-dark.svg">
+    <img src="docs/mcp-announcement.svg" alt="MCP is live: connect Instagram and TikTok data to ChatGPT, Claude or Codex with your existing API key. Connect via MCP." width="1100">
+  </picture>
+</a>
+<!-- mcp-announcement:end -->
+
 ## [Live Status](https://status.evelode.com): <!--live status--> **🟩 All systems operational**
 
 <!--start: status pages-->
