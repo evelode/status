@@ -6,14 +6,14 @@ assignees:
 
 sites:
   - name: Evelode
-    url: https://evelode.com
+    url: https://tiktok.evelode.com/status/api/v1/check/evelode
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 0
   - name: Evelode REST API
-    url: https://evelode.com/graftype-api/?action_type=now&token=$API_KEY
+    url: https://tiktok.evelode.com/status/api/v1/check/graftype
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -23,7 +23,7 @@ sites:
       - 521
       - 403
   - name: TikTok Scraper API (SFO3)
-    url: https://tiktok.evelode.com/getVideoByID?video_id=7106855913906081070&license_key=$API_KEY&cache_timeout=0
+    url: https://tiktok.evelode.com/status/api/v1/check/tiktok
     icon: https://evelode.com/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
     maxResponseTime: 60000
@@ -36,7 +36,7 @@ sites:
       - 403
       - 404
   - name: IG Scraper API (SFO3)
-    url: https://ig.jsonscraper.com/v1/media/by/id?id=3816481912765155592&license_key=$IG_API_KEY
+    url: https://tiktok.evelode.com/status/api/v1/check/instagram
     icon: https://evelode.com/wp-content/uploads/edd/2026/03/IG-Scraper-API-1000x750.jpg
     method: GET
     maxResponseTime: 60000
