@@ -1,7 +1,7 @@
-url: https://evelode.com/graftype-api/?action_type=now&token=$API_KEY
+url: https://tiktok.evelode.com/status/api/v1/check/graftype
 status: up
 code: 200
-responseTime: 541
-lastUpdated: 2026-11-03T03:46:10.007Z
+responseTime: 203
+lastUpdated: 2026-11-03T14:00:39.316Z
 startTime: 2024-02-13T03:38:43.914Z
 generator: Upptime <https://github.com/upptime/upptime>
