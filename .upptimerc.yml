@@ -12,6 +12,8 @@ workflowSchedule:
 sites:
   - name: Evelode
     url: https://tiktok.evelode.com/status/api/v1/check/evelode
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     maxResponseTime: 30000
     expectedStatusCodes:
@@ -19,6 +21,8 @@ sites:
       - 0
   - name: Evelode REST API
     url: https://tiktok.evelode.com/status/api/v1/check/graftype
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -29,6 +33,8 @@ sites:
       - 403
   - name: TikTok Scraper API (SFO3)
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
     maxResponseTime: 60000
@@ -41,6 +47,8 @@ sites:
       - 404
   - name: IG Scraper API (SFO3)
     url: https://tiktok.evelode.com/status/api/v1/check/instagram
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/edd/2026/03/IG-Scraper-API-1000x750.jpg
     method: GET
     maxResponseTime: 60000
